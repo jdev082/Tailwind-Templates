@@ -5,4 +5,4 @@ Some Tailwind templates to make an amazing website.
 # Color Sections Duo
 ![image](https://user-images.githubusercontent.com/92550746/161455750-6909c96d-f721-4b7f-b8b3-002ba7a1d49a.png)
 # About Me Cards
-![image](https://user-images.githubusercontent.com/92550746/161455757-30e536f3-0b00-4e2c-9510-7fc3f5ab9a9e.png)
+![image](https://user-images.githubusercontent.com/92550746/161455800-fc22cdc8-4e8c-46ee-a129-a079b429e956.png)
