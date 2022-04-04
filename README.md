@@ -9,3 +9,6 @@ Some Tailwind templates to make an amazing website.
 # About Me Cards
 ![image](https://user-images.githubusercontent.com/92550746/161455800-fc22cdc8-4e8c-46ee-a129-a079b429e956.png)
 [Online Example](https://jaydendev.github.io/Tailwind-Templates/About%20Me%20Cards/)
+# Dual Navbars
+![image](https://user-images.githubusercontent.com/92550746/161631103-17f0d149-5ae5-4792-b94f-41865ff10702.png)
+[Online Example](https://jaydendev.github.io/Tailwind-Templates/Dual%20Navbars/)
