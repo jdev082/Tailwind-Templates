@@ -1,8 +1,7 @@
 module.exports = {
-    theme: {
-        backdropFilter: {
-            'none': 'none',
-            'blur': 'blur(20px)',
-        },
-    },
+	content: ["index.html"],
+	theme: {
+		extend: {},
+	},
+	plugins: [],
 };
